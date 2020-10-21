@@ -2,7 +2,7 @@
 
 What is the project? 
 
-Map Race is a single-player game that prompts the user with certain categories of landmarks near them, such as restaurant, pharmacy, shop etc. and the player has to get to a landmark of that category. There are a set number of places the user must visit to complete the game. Once the game is finished the time taken by the player is recorded. The aim of the player is to complete the game in the least possible time.
+Map Race is a single-player game that prompts the user with certain categories of landmarks near them, such as restaurant, shop etc. and the player has to get to a landmark of that category. There are a set number of places the user must visit to complete the game. Once the game is finished the time taken by the player is recorded. The aim of the player is to complete the game in the least possible time.
 
 Why is the project interesting?
 
